@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/CLionProjects/zadaca/main.cpp" "D:/CLionProjects/zadaca/cmake-build-debug/CMakeFiles/zadaca.dir/main.cpp.obj"
+  "D:/Users/Admin/Desktop/oop/zadaca1/main.cpp" "D:/Users/Admin/Desktop/oop/zadaca1/cmake-build-debug/CMakeFiles/zadaca.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
