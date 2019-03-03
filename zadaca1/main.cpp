@@ -162,6 +162,7 @@ int main()
     Point C(1,2);
     Point X(2,1.5);
     Point Y(2,3);
+
     Rectangle P (A,B,C);
     cout <<"Pravokutnik P: " <<endl;
     P.print();
